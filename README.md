@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🎹 I'm a Pianist and Piano teacher since 2018
+- 👩‍💻 I'm currently studying Computer Systems at UVEG
+- 🌱 I'm an active candidate at the ONE Next Education grant from Alura LATAM
+- 💬 Ask me about Piano
+- 📫 How to reach me: https://linktr.ee/celesteamador
+- ✨ I have the cutest cat in the wold 
 
 <!--
 **celesteamador/celesteamador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
