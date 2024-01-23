@@ -2,9 +2,9 @@
 - 🎹 I'm a Pianist and Piano teacher since 2018
 - 👩‍💻 I'm currently studying Computer Systems Engineering at UVEG
 - 🌱 I'm an active candidate at the ONE Next Education program from Alura LATAM
-- 💬 Ask me about Piano
 - 📫 How to reach me: https://linktr.ee/celesteamador
-- ✨ I have the cutest cat in the wold 
+- ✨ I have the cutest cat in the wold
+- 💬 Ask me about Piano
 
 <!--
 **celesteamador/celesteamador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
