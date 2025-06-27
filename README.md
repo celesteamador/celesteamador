@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🎹 I'm a Pianist and Piano teacher since 2018
+- 🎹 I've been a Pianist and Piano teacher since 2018
 - 🌐 I speak Spanish, English, German and French (My goal is to become a polyglot one day)
-- 👩‍💻 I'm currently studying Computer Systems Engineering at UVEG 🐨
+- 👩‍💻 I'm currently studying Computer Systems Engineering at UVEG 🐨 (exp. 2026)
 - 🌱 I completed the Oracle Next Education Back-End Track in 2024
-- 👾 I'm an active student at the Cibersecurity Academy (Academia de Ciberseguridad)
+- 👾 I'm an active student at the Cibersecurity Academy (Academia de Ciberseguridad) (exp. 2026)
 - 🔭 I'm very passionate about privacy, security, blockchain and programming. 
 - 📫 How to reach me: www.celesteamador.me
 - ✨ I have the cutest cat in the wold
