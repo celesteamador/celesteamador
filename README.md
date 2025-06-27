@@ -5,7 +5,7 @@
 - 🌱 I completed the Oracle Next Education Back-End Track in 2024
 - 👾 I'm an active student at the Cibersecurity Academy (Academia de Ciberseguridad) (exp. 2026)
 - 🔭 I'm very passionate about privacy, security, blockchain and programming. 
-- 📫 How to reach me: www.celesteamador.me -- look at my blog! https://substack.com/@celesteamado
+- 📫 How to reach me: www.celesteamador.me -- look at my blog! https://substack.com/@celesteamador
 - ✨ I have the cutest cat in the wold
 - 💬 Ask me about Piano, Philosophy or Languages
 
