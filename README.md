@@ -1,11 +1,13 @@
 ### Hi there 👋
 - 🎹 I'm a Pianist and Piano teacher since 2018
+- 🌐 I speak Spanish, English, German and French (My goal is to become a polyglot one day)
 - 👩‍💻 I'm currently studying Computer Systems Engineering at UVEG 🐨
-- 🌱 I'm an active candidate at the Oracle Next Education program from Alura LATAM
+- 🌱 I completed the Oracle Next Education Back-End Track in 2024
 - 👾 I'm an active student at the Cibersecurity Academy (Academia de Ciberseguridad)
-- 📫 How to reach me: https://linktr.ee/celesteamador
+- 🔭 I'm very passionate about privacy, security, blockchain and programming. 
+- 📫 How to reach me: www.celesteamador.me
 - ✨ I have the cutest cat in the wold
-- 💬 Ask me about Piano
+- 💬 Ask me about Piano, Philosophy or Languages
 
 <!--
 **celesteamador/celesteamador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
