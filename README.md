@@ -26,6 +26,16 @@ I’m fluent in Spanish, English, and German, and enjoy working across cultures 
 
 ## Certifications
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/136e1ef7-ac07-404d-a347-e648f78d21a3" title="CompTIA Security+ ce Certification"><img src="https://images.credly.com/size/80x80/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+ ce Certification" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/20e293b6-e3dc-409a-9bc4-47a86b1091f6" title="CompTIA Network+ ce Certification"><img src="https://images.credly.com/size/80x80/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+ ce Certification" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/5f2a245e-2d94-411a-9e00-c1af0c21a5bc" title="Artificial Intelligence Fundamentals"><img src="https://images.credly.com/size/80x80/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="Artificial Intelligence Fundamentals" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/3d620133-5365-4f78-b2fe-aef014f8afe1" title="Certified in Cybersecurity (CC)"><img src="https://images.credly.com/size/80x80/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Certified in Cybersecurity (CC)" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/3bf0adfb-602e-4b7a-8c06-0cc0d4aeed90" title="Ethical Hacking Professional Certification - CEHPC™ !"><img src="https://images.credly.com/size/80x80/images/a28ffd78-0afb-480e-a81f-fe49b8718399/blob" alt="Ethical Hacking Professional Certification - CEHPC™ !" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/996e0cbb-c2d4-422b-a9b3-c0486edc0712" title="Google Cybersecurity Professional Certificate V2"><img src="https://images.credly.com/size/80x80/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate V2" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/91d871ca-63c8-40f5-babf-160063017eb0" title="Certificado de gestión de proyectos de Google"><img src="https://images.credly.com/size/80x80/images/195d0589-8a46-4366-bedc-41749c663a42/image.png" alt="Certificado de gestión de proyectos de Google" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/25cb9116-ca7b-47a4-8b59-5d87c723778b" title="Microsoft Developer"><img src="https://images.credly.com/size/80x80/images/e51f6ac3-57c3-4835-8766-f3e6b45296dc/image.png" alt="Microsoft Developer" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/1bf0ca9b-1d6d-4ae8-b07b-543b7e046524" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/c91b12f8-a2e2-452f-8e4d-ce047ce4e77e" title="Digital Awareness"><img src="https://images.credly.com/size/80x80/images/29e7c859-4719-4081-a12f-6bdc073a43d2/image.png" alt="Digital Awareness" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <!--
