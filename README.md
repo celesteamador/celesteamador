@@ -29,13 +29,13 @@ I’m fluent in Spanish, English, and German, and enjoy working across cultures 
 [![CompTIA Security+ ce Certification](https://images.credly.com/size/80x80/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/136e1ef7-ac07-404d-a347-e648f78d21a3)
 [![CompTIA Network+ ce Certification](https://images.credly.com/size/80x80/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)](https://www.credly.com/badges/20e293b6-e3dc-409a-9bc4-47a86b1091f6)
 [![Certified in Cybersecurity (CC)](https://images.credly.com/size/80x80/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/3d620133-5365-4f78-b2fe-aef014f8afe1)
+[![Cardano Blockchain Certified Associate (CBCA) Certification](https://images.credly.com/size/80x80/images/bafb43f7-f214-4648-9aa0-7a7aab6b283c/blob)](https://www.credly.com/badges/a7e57932-5e7d-4582-a453-55c225edec49)
 [![Ethical Hacking Professional Certification - CEHPC™ !](https://images.credly.com/size/80x80/images/a28ffd78-0afb-480e-a81f-fe49b8718399/blob)](https://www.credly.com/badges/3bf0adfb-602e-4b7a-8c06-0cc0d4aeed90)
 [![Designing Distributed Systems](https://images.credly.com/size/80x80/images/b4e38c40-60e6-4b56-9ea0-7af0e2b5f868/86cadc75-e75a-4340-b740-0314931016dc.png)](https://www.credly.com/badges/c2bf352e-abb8-4335-8966-3915cc83c805)
+[![Local Open Source LLMs](https://images.credly.com/size/80x80/images/121acd7c-eb74-420c-862c-ffd1089e046a/251a215a-6b7a-408f-8b8d-fef590311cae.png)](https://www.credly.com/badges/87635845-a7f8-4dee-82a6-52c0bb27507e)
 [![Artificial Intelligence Fundamentals](https://images.credly.com/size/80x80/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)](https://www.credly.com/badges/5f2a245e-2d94-411a-9e00-c1af0c21a5bc)
 [![Agile Explorer](https://images.credly.com/size/80x80/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](https://www.credly.com/badges/265e76b1-567f-4a1d-92ec-3121cdc910e6)
 [![Microsoft Developer](https://images.credly.com/size/80x80/images/e51f6ac3-57c3-4835-8766-f3e6b45296dc/image.png)](https://www.credly.com/badges/25cb9116-ca7b-47a4-8b59-5d87c723778b)
-[![Google Cybersecurity Professional Certificate V2](https://images.credly.com/size/80x80/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/996e0cbb-c2d4-422b-a9b3-c0486edc0712)
-[![Certificado de gestión de proyectos de Google](https://images.credly.com/size/80x80/images/195d0589-8a46-4366-bedc-41749c663a42/image.png)](https://www.credly.com/badges/91d871ca-63c8-40f5-babf-160063017eb0)
 <!--END_SECTION:badges-->
 
 <!--
