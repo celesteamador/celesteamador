@@ -26,8 +26,8 @@ I’m fluent in Spanish, English, and German, and enjoy working across cultures 
 
 ## Certifications
 <!--START_SECTION:badges-->
-[![CompTIA Security+ ce Certification](https://images.credly.com/size/80x80/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/136e1ef7-ac07-404d-a347-e648f78d21a3)
-[![CompTIA Network+ ce Certification](https://images.credly.com/size/80x80/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)](https://www.credly.com/badges/20e293b6-e3dc-409a-9bc4-47a86b1091f6)
+[![CompTIA Security+ ce Certification](https://images.credly.com/size/80x80/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/07db1cd1-ff59-443f-a1cb-e43edf2e5833)
+[![CompTIA Network+ ce Certification](https://images.credly.com/size/80x80/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)](https://www.credly.com/badges/88af23bb-e9cf-4ae4-8300-e9598e7889ac)
 [![Certified in Cybersecurity (CC)](https://images.credly.com/size/80x80/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/3d620133-5365-4f78-b2fe-aef014f8afe1)
 [![Cardano Blockchain Certified Associate (CBCA) Certification](https://images.credly.com/size/80x80/images/bafb43f7-f214-4648-9aa0-7a7aab6b283c/blob)](https://www.credly.com/badges/a7e57932-5e7d-4582-a453-55c225edec49)
 [![Ethical Hacking Professional Certification - CEHPC™ !](https://images.credly.com/size/80x80/images/a28ffd78-0afb-480e-a81f-fe49b8718399/blob)](https://www.credly.com/badges/3bf0adfb-602e-4b7a-8c06-0cc0d4aeed90)
