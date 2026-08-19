@@ -26,16 +26,16 @@ I’m fluent in Spanish, English, and German, and enjoy working across cultures 
 
 ## Certifications
 <!--START_SECTION:badges-->
-[![CompTIA Security+ ce Certification](https://images.credly.com/size/80x80/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/07db1cd1-ff59-443f-a1cb-e43edf2e5833)
+[![CompTIA Security Analytics Professional – CSAP Stackable Certification](https://images.credly.com/size/80x80/images/ba1b8072-8ebe-432c-88e5-05bc809c624a/CompTIA_CSAP.png)](https://www.credly.com/badges/864908f9-ec44-4d32-9f09-a9b49a054001)
+[![CompTIA CySA+ ce Certification](https://images.credly.com/size/80x80/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob)](https://www.credly.com/badges/91d32a11-0f2c-42c7-8af8-c1eb41088815)
 [![CompTIA Network+ ce Certification](https://images.credly.com/size/80x80/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)](https://www.credly.com/badges/88af23bb-e9cf-4ae4-8300-e9598e7889ac)
-[![Certified in Cybersecurity (CC)](https://images.credly.com/size/80x80/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/3d620133-5365-4f78-b2fe-aef014f8afe1)
+[![CompTIA Security+ ce Certification](https://images.credly.com/size/80x80/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/07db1cd1-ff59-443f-a1cb-e43edf2e5833)
 [![Cardano Blockchain Certified Associate (CBCA) Certification](https://images.credly.com/size/80x80/images/bafb43f7-f214-4648-9aa0-7a7aab6b283c/blob)](https://www.credly.com/badges/a7e57932-5e7d-4582-a453-55c225edec49)
+[![Certified in Cybersecurity (CC)](https://images.credly.com/size/80x80/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/3d620133-5365-4f78-b2fe-aef014f8afe1)
 [![Ethical Hacking Professional Certification - CEHPC™ !](https://images.credly.com/size/80x80/images/a28ffd78-0afb-480e-a81f-fe49b8718399/blob)](https://www.credly.com/badges/3bf0adfb-602e-4b7a-8c06-0cc0d4aeed90)
-[![Designing Distributed Systems](https://images.credly.com/size/80x80/images/b4e38c40-60e6-4b56-9ea0-7af0e2b5f868/86cadc75-e75a-4340-b740-0314931016dc.png)](https://www.credly.com/badges/c2bf352e-abb8-4335-8966-3915cc83c805)
+[![Designing Distributed Systems](https://images.credly.com/size/80x80/images/382c84f4-d2dd-4323-b339-c7ca48b9480d/86cadc75-e75a-4340-b740-0314931016dc.png)](https://www.credly.com/badges/c2bf352e-abb8-4335-8966-3915cc83c805)
 [![Local Open Source LLMs](https://images.credly.com/size/80x80/images/121acd7c-eb74-420c-862c-ffd1089e046a/251a215a-6b7a-408f-8b8d-fef590311cae.png)](https://www.credly.com/badges/87635845-a7f8-4dee-82a6-52c0bb27507e)
 [![Artificial Intelligence Fundamentals](https://images.credly.com/size/80x80/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)](https://www.credly.com/badges/5f2a245e-2d94-411a-9e00-c1af0c21a5bc)
-[![Agile Explorer](https://images.credly.com/size/80x80/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png)](https://www.credly.com/badges/265e76b1-567f-4a1d-92ec-3121cdc910e6)
-[![Microsoft Developer](https://images.credly.com/size/80x80/images/e51f6ac3-57c3-4835-8766-f3e6b45296dc/image.png)](https://www.credly.com/badges/25cb9116-ca7b-47a4-8b59-5d87c723778b)
 <!--END_SECTION:badges-->
 
 <!--
