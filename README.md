@@ -33,8 +33,8 @@ I’m fluent in Spanish, English, and German, and enjoy working across cultures 
 [![Cardano Blockchain Certified Associate (CBCA) Certification](https://images.credly.com/size/80x80/images/bafb43f7-f214-4648-9aa0-7a7aab6b283c/blob)](https://www.credly.com/badges/a7e57932-5e7d-4582-a453-55c225edec49)
 [![Certified in Cybersecurity (CC)](https://images.credly.com/size/80x80/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/3d620133-5365-4f78-b2fe-aef014f8afe1)
 [![Ethical Hacking Professional Certification - CEHPC™ !](https://images.credly.com/size/80x80/images/a28ffd78-0afb-480e-a81f-fe49b8718399/blob)](https://www.credly.com/badges/3bf0adfb-602e-4b7a-8c06-0cc0d4aeed90)
-[![Designing Distributed Systems](https://images.credly.com/size/80x80/images/da99db36-2b70-421b-bbd3-a543a2d072da/86cadc75-e75a-4340-b740-0314931016dc.png)](https://www.credly.com/badges/c2bf352e-abb8-4335-8966-3915cc83c805)
-[![Local Open Source LLMs](https://images.credly.com/size/80x80/images/5f3bd88e-e2f3-4a67-bbd3-48efecca5e28/251a215a-6b7a-408f-8b8d-fef590311cae.png)](https://www.credly.com/badges/87635845-a7f8-4dee-82a6-52c0bb27507e)
+[![Designing Distributed Systems](https://images.credly.com/size/80x80/images/382c84f4-d2dd-4323-b339-c7ca48b9480d/86cadc75-e75a-4340-b740-0314931016dc.png)](https://www.credly.com/badges/c2bf352e-abb8-4335-8966-3915cc83c805)
+[![Local Open Source LLMs](https://images.credly.com/size/80x80/images/121acd7c-eb74-420c-862c-ffd1089e046a/251a215a-6b7a-408f-8b8d-fef590311cae.png)](https://www.credly.com/badges/87635845-a7f8-4dee-82a6-52c0bb27507e)
 [![Artificial Intelligence Fundamentals](https://images.credly.com/size/80x80/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png)](https://www.credly.com/badges/5f2a245e-2d94-411a-9e00-c1af0c21a5bc)
 <!--END_SECTION:badges-->
 
